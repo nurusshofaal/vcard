@@ -1,0 +1,53 @@
+.container{
+    box-shadow: 0 1px 8px rgba(0,0,0,0.5);
+}
+
+nav, nav a{
+    text-transform: uppercase;
+    color: rgb(37, 34, 34);
+}
+
+nav a.active{
+    color: #475CFD;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #475CFD;
+}
+
+nav h5{
+    font-weight: 700;
+}
+
+.main{
+    color: rgb(37, 34, 34);
+}
+
+.main h1{
+    font-weight: 100;
+}
+
+.main h1 span{
+    font-weight: 600;
+    color: #475CFD;
+}
+
+.main p{
+    font-weight: 100;
+}
+
+.main button{
+    background-color: #FF4887;
+    color: white;
+    margin-top: 20px;
+}
+
+/* .card-body{
+    position: relative;
+    overflow: hidden;
+} */
+
+.bg-img{
+    width: 450px;
+}
